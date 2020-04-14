@@ -1,5 +1,4 @@
-name: r2s-lean
-
+name: r2s Lean版openwrt 
 on:
   push:
     branches: 
@@ -14,6 +13,7 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
+
     steps:
 
       - name: Checkout
@@ -126,4 +126,3 @@ jobs:
           asset_path: ./artifact.zip
           asset_name: ${{ steps.assemble_artifact.outputs.release_tag }}-ROM.zip
           asset_content_type: application/zip
-
