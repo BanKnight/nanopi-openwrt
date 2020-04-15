@@ -1,5 +1,5 @@
 # R2s 自动编译
-![r2s-lean](https://github.com/BanKnight/nanopi-openwrt/workflows/r2s-lean/badge.svg)
+![r2s Lean版openwrt](https://github.com/BanKnight/nanopi-openwrt/workflows/r2s%20Lean%E7%89%88openwrt/badge.svg)
 
 ## 参考: https://github.com/klever1988/nanopi-openwrt
 
